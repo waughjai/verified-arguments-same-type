@@ -1,4 +1,4 @@
-Composer Template
+Verified Arguments Same Type
 =========================
 
-Template for easily making composer projects.
+List o' verified arguments wherein given arguments must be the same type as defaults.
